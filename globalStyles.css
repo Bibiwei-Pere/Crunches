@@ -25,8 +25,9 @@ section {
   --gray: #e4edf6;
   --black-1: #0d1017;
   --black-2: #1a1e29;
-  --blue: #4056e5;
   --white: #ffffff;
+  --green: #26643b;
+  --blue: #4056e5;
 }
 img {
   width: 100%;

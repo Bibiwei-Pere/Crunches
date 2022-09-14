@@ -267,12 +267,12 @@ footer {
 .footer__socials a {
   padding: 0.5rem 0.8rem;
   background-color: var(--white);
-  border: 1px solid var(--green-2);
+  border: 1px solid var(--blue);
   border-radius: 8px;
 }
 .footer__socials svg {
   width: 20px;
-  color: var(--black-2);
+  color: var(--blue);
 }
 .footer__text__title {
   font-size: 1.8rem;
