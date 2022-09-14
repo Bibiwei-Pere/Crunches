@@ -240,6 +240,7 @@ footer {
   background: var(--gray);
   padding-top: 5rem;
   padding-bottom: 2rem;
+  border-bottom: 1px solid var(--black-2);
 }
 .footer__wrapper {
   display: flex;
@@ -331,12 +332,8 @@ footer {
   text-align: center;
 }
 @media only screen and (min-width: 768px) {
-  #copyright {
-    border: 2px solid var(-green);
-  }
   .copyright__text {
     font-size: 1.6rem;
-    text-align: left;
   }
 }
 /* End Footer Styles */
