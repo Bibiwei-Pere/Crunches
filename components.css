@@ -6,6 +6,7 @@
 .nav__close,
 .nav__bgOverlay {
   display: none;
+  color: var(--white);
 }
 .nav__wrapper {
   display: flex;
@@ -18,11 +19,11 @@
 .nav__list .nav__link {
   font-size: 1.8rem;
   font-family: Poppins;
-  color: var(--black-2);
+  color: var(--white);
   padding: 0.5rem;
 }
 .nav__list li:hover .nav__link {
-  color: var(--green-1);
+  color: var(--blue);
 }
 @media only screen and (max-width: 768px) {
   .nav {
@@ -41,7 +42,7 @@
   .nav__close {
     display: block;
     position: absolute;
-    color: var(--black-1);
+    color: var(--white);
     right: 1rem;
     top: 1rem;
     cursor: pointer;
@@ -53,7 +54,7 @@
     top: 0;
     height: 100vh;
     width: 80%;
-    background: var(--lightGreen-1);
+    background: var(--black-1);
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -90,7 +91,7 @@
 /* End Nav Styles */
 /* Global Button Styles */
 .btn {
-  color: var(--green-1);
+  color: var(--white);
   font-family: Poppins;
   font-weight: 500;
   border-radius: 8px;
@@ -98,8 +99,8 @@
   padding: 1.2rem 2rem;
 }
 .primary-btn {
-  color: var(--white-1);
-  background: var(--green-1);
+  color: var(--white);
+  background: var(--blue);
 }
 @media only screen and (min-width: 700px) {
   .btn {
@@ -117,9 +118,8 @@
   gap: 1rem;
 }
 .storeInfo__item {
-  background-color: var(--lightGreen-1);
+  background-color: var(--white);
   padding: 20px 30px;
-  text-align: center;
   text-align: center;
   border-radius: 12px;
   width: 150px;
@@ -178,7 +178,7 @@
 .dishGrid__item {
   display: flex;
   flex-direction: column;
-  background-color: var(--lightGreen-1);
+  background-color: var(--white);
   padding: 0.5rem;
   border-radius: 8px;
   gap: 0.5rem;
@@ -202,7 +202,7 @@
 }
 .dishGrid__item__price {
   font-size: 1.4rem;
-  color: var(--green-1);
+  color: var(--green);
   font-weight: 600;
   margin-bottom: 0.5rem;
 }
