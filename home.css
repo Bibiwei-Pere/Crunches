@@ -84,7 +84,7 @@
   gap: 1rem;
 }
 .ourSpecials__item {
-  background-color: var(--white);
+  background-color: var(--gray);
   padding: 1.2rem;
   padding-top: 5rem;
   border-radius: 12px;
