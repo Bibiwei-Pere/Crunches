@@ -267,12 +267,12 @@ footer {
 .footer__socials a {
   padding: 0.5rem 0.8rem;
   background-color: var(--white);
-  border: 1px solid var(--blue);
+  border: 1px solid var(--green);
   border-radius: 8px;
 }
 .footer__socials svg {
   width: 20px;
-  color: var(--blue);
+  color: var(--green);
 }
 .footer__text__title {
   font-size: 1.8rem;
@@ -331,6 +331,9 @@ footer {
   text-align: center;
 }
 @media only screen and (min-width: 768px) {
+  #copyright {
+    border: 2px solid var(-green);
+  }
   .copyright__text {
     font-size: 1.6rem;
     text-align: left;
