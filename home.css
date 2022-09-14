@@ -192,8 +192,8 @@
   flex-direction: column;
   padding: 1.5rem;
   border-radius: 12px;
-  background: var(--lightGreen-1) url(./images/discount-illustration.png)
-    no-repeat bottom right / 100px;
+  background: var(--gray) url(./images/discount-illustration.png) no-repeat
+    bottom right / 100px;
 }
 .discount__images {
   display: flex;
@@ -214,7 +214,7 @@
 .discount__text {
   font-size: 1.4rem;
   font-weight: 900;
-  color: var(--green-1);
+  color: var(--black-1);
   margin-bottom: 0.5rem;
 }
 .discount__title {
@@ -231,11 +231,11 @@
   margin-bottom: 1rem;
 }
 .discount__oldPrice {
-  color: var(--black-2);
+  color: var(--green);
   text-decoration: line-through;
 }
 .discount__newPrice {
-  color: var(--green-1);
+  color: var(--green);
 }
 .discount__stars {
   width: max-content;
@@ -326,7 +326,7 @@
   display: flex;
   gap: 1rem;
   padding: 1rem;
-  background: var(--lightGreen-1);
+  background: var(--gray);
   margin-bottom: 1.5rem;
   border-radius: 12px;
 }
@@ -355,11 +355,11 @@
 }
 .eventsInfo__title {
   font-size: 1.8rem;
-  color: var(--black-1);
+  color: var(--white);
   margin-bottom: 1rem;
 }
 .eventsInfo__text {
-  color: var(--black-2);
+  color: var(--white);
   font-size: 1.4rem;
   margin-bottom: 1rem;
 }
