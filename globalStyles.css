@@ -4,7 +4,7 @@ html {
   overflow-x: hidden;
 }
 body {
-  background: var(--lightGreen-2);
+  background: var(--black-1);
   overflow-x: hidden;
   visibility: hidden;
 }
@@ -22,14 +22,13 @@ section {
   margin: 0 auto;
 }
 :root {
-  --green-1: #26643b;
-  --green-2: #e6e8ff;
-  --lightGreen-1: #d6e5d8;
-  --lightGreen-2: #f5fcf4;
-  --black-1: #3b413a;
-  --black-2: #3f3c3c;
-  --black-3: #5b6359;
-  --white-1: #e8e8e8;
+  --gray-1: #c6d2e0;
+  --gray-2: #32445c;
+  --black-1: #0d1017;
+  --black-2: #1a1e29;
+  --blue-1: #4c2bd0;
+  --blue-2: #4056e5;
+  --white-1: #ffffff;
 }
 img {
   width: 100%;

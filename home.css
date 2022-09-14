@@ -21,13 +21,13 @@
   text-align: center;
   font-size: 1.8rem;
   margin-bottom: 1.5rem;
-  color: var(--black-1);
+  color: var(--white);
 }
 .hero__info {
   text-align: center;
   font-size: 1.4rem;
   margin-bottom: 1.5rem;
-  color: var(--black-2);
+  color: var(--white);
 }
 .button__wrapper {
   text-align: center;
