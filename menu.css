@@ -5,7 +5,7 @@
 }
 .page__title__text {
   font-size: 2.2rem;
-  color: var(--black-1);
+  color: var(--white);
 }
 @media only screen and (min-width: 768px) {
   #page__title {
@@ -22,7 +22,7 @@
 }
 .ourSpecials__title {
   font-size: 1.8rem;
-  color: var(--black-1);
+  color: var(--white);
   margin-bottom: 2rem;
 }
 .ourSpecials__wrapper {
@@ -35,7 +35,7 @@
   flex: 1;
   display: flex;
   gap: 2rem;
-  background-color: var(--lightGreen-1);
+  background-color: var(--gray);
   padding: 1.5rem;
   border-radius: 12px;
 }
@@ -59,7 +59,7 @@
 }
 .ourSpecials__item__price {
   font-size: 1.8rem;
-  color: var(--green-1);
+  color: var(--green);
   font-weight: 600;
   margin-bottom: 1rem;
 }
