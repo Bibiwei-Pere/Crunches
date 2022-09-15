@@ -344,7 +344,7 @@ footer {
 }
 .form__title {
   font-size: 1.8rem;
-  color: var(--black-1);
+  color: var(--white);
   font-weight: 600;
 }
 .form__wrapper {
@@ -358,7 +358,7 @@ footer {
 .form__group label {
   font-size: 1.6rem;
   font-family: Poppins;
-  color: var(--black-2);
+  color: var(--white);
   font-weight: 500;
 }
 .form__group input,
@@ -366,14 +366,14 @@ footer {
 .form__group select {
   width: 100%;
   border: none;
-  background-color: var(--lightGreen-1);
+  background-color: var(--gray);
   font-size: 1.4rem;
   font-family: Raleway;
   font-weight: 600;
   padding: 1.5rem;
   border-radius: 8px;
   margin-top: 0.5rem;
-  color: var(--black-2);
+  color: var(--black-1);
 }
 .form__group textarea {
   resize: vertical;
