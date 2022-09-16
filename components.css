@@ -103,7 +103,7 @@
   border-radius: 8px;
   font-size: 1.4rem;
   padding: 1.2rem 2rem;
-  border: 2px solid var(--blue);
+  border: 1px solid var(--blue);
 }
 .primary-btn {
   color: var(--white);
