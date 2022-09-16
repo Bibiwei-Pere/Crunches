@@ -113,6 +113,7 @@
   .btn {
     padding: 1.3rem 2rem;
     font-size: 2rem;
+    border: 2px solid var(--blue)
   }
 }
 /* End Global Button Styles */
