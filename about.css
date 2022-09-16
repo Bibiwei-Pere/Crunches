@@ -23,15 +23,17 @@
   line-height: 1.4em;
   color: var(--white);
 }
-.ourStory__img,
+.ourStory__img {
+  height: 220px;
+  width: 95%;
+}
 .ourGoals__img1 {
-  height: 200px;
+  height: 240px;
 }
 
 .ourGoals__img2,
-.ourGoals__img4 {
-
- height: 100px;
+.ourGoals__img3 {
+ height: 120px;
 }
 
 @media only screen and (min-width: 768px) {
