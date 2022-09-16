@@ -1,5 +1,5 @@
 ## Crunches
----
+
 <img src="https://raw.githubusercontent.com/Bibiwei-Pere/Crunches/main/images/readmeImg.jpg" alt="Personal Portfolio" />
 
 **Live preview: [Click me](https://crunches.netlify.app/)**
