@@ -23,7 +23,12 @@
   line-height: 1.4em;
   color: var(--white);
 }
-
+.ourStory__img, 
+.ourGoals__img1, 
+.ourGoals__img2,
+.ourGoals__img3 {
+ border-radius: 12px;
+}
 
 @media only screen and (min-width: 768px) {
   .ourStory__wrapper {
