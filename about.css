@@ -23,6 +23,17 @@
   line-height: 1.4em;
   color: var(--white);
 }
+.ourStory__img,
+.ourGoals__img1 {
+  height: 200px;
+}
+
+.ourGoals__img2,
+.ourGoals__img4 {
+
+ height: 100px;
+}
+
 @media only screen and (min-width: 768px) {
   .ourStory__wrapper {
     flex-direction: row;
