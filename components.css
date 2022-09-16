@@ -28,7 +28,7 @@
 .logo {
   height: 70px;
   width: 160px;
-  margin-bottom: 13rem;
+  padding: 0 0 3rem -2rem;
 }
 
 @media only screen and (max-width: 768px) {
