@@ -28,9 +28,8 @@
 .logo {
   height: 70px;
   width: 150px;
-  margin-bottom: 2rem;
-  position: relative;
-  display: inline-block;
+  margin-bottom: 8rem;
+  position: absolute;
 }
 
 @media only screen and (max-width: 768px) {
