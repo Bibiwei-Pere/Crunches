@@ -1,4 +1,4 @@
-## Personal Portfolio
+## Crunches
 <img src="https://raw.githubusercontent.com/Bibiwei-Pere/Crunches/main/images/readmeImg.jpg" alt="Personal Portfolio" />
 
 **Live preview: [Click me](https://bibiweipere.netlify.app/)**
@@ -7,7 +7,7 @@
 
 ## Project Description
 
-This is my Personal Portfolio Website created with `react`, `tailwindcss` and lots of other packages. It is a well-designed, `responsive` page with `dark mode` feature.
+This is a landing page for a restaurant. The website is created with `html`, `css` and lots of other packages. It is a well-designed, `responsive` page with `animation` features.
 
 ---
 
@@ -27,7 +27,7 @@ This is my Personal Portfolio Website created with `react`, `tailwindcss` and lo
 
 Like my works and want to support me?
 
-<a href="https://www.buymeacoffee.com/adrenaline9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 45px !important; width: 162.75px !important;" ></a>
+<a href="https://www.buymeacoffee.com/adrenaline9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important; width: 162.75px !important;" ></a>
 
 ---
 
