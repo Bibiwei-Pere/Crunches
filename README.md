@@ -1,6 +1,6 @@
 ## Crunches
 
-<img src="https://raw.githubusercontent.com/Bibiwei-Pere/Crunches/main/images/readme.jpg" alt="Crunches" />
+[<img src="https://raw.githubusercontent.com/Bibiwei-Pere/Crunches/main/images/readme.jpg" alt="Crunches" />] (https://crunches.netlify.app/)
 
 **Live preview: [Click me](https://crunches.netlify.app/)**
 
