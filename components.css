@@ -7,7 +7,7 @@
   left: 0;
   padding: 2rem 0;
   border-bottom: 2px solid var(--gray);
-  margin-bottom: 3rem;
+  margin: 0 0 13rem 0;
 }
 .nav__icon,
 .nav__close,
