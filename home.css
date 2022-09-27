@@ -36,7 +36,7 @@
 
 @media only screen and (min-width: 768px) {
   .hero__wrapper {
-    margin: 6rem 0;
+    margin: 10rem 0;
     flex-direction: row;
     gap: 0;
   }
