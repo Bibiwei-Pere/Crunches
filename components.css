@@ -1,6 +1,7 @@
 /* Nav Styles */
 .nav {
-  
+  background-color: var(--white);
+  position: fixed;
   padding: 2rem 0;
 }
 .nav__icon,
@@ -10,7 +11,7 @@
   color: var(--white);
 }
 .nav__wrapper {
-  background-color: var(--white)
+  background-color: var(--white);
   position: fixed;
   display: flex;
   justify-content: space-between;
