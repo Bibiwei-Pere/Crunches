@@ -6,6 +6,9 @@
   right: 0;
   left: 0;
   padding: 2rem 0;
+  border-bottom: 2px solid var(--gray);
+  width: 100%;
+  margin-bottom: 2rem;
   }
 .nav__icon,
 .nav__close,
@@ -39,10 +42,7 @@
 
 @media only screen and (max-width: 768px) {
   .nav {
-    position: relative;
-    border-bottom: 2px solid var(--gray);
-    width: 100%;
-    margin-bottom: 2rem;
+    border: none;
     /* overflow-x: scroll; */
   }
   .nav__icon {
