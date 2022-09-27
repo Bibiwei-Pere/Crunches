@@ -1,11 +1,7 @@
 /* Nav Styles */
 .nav {
-  background-color: var(--black-1);
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  
+  position: relative;
+  padding: 2rem 0;
   
   }
 .nav__icon,
