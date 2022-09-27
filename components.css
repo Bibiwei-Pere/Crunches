@@ -6,9 +6,6 @@
   right: 0;
   left: 0;
   padding: 2rem 0;
-  border-bottom: 2px solid var(--gray);
-  width: 100%;
-  margin-bottom: 12rem;
   }
 .nav__icon,
 .nav__close,
