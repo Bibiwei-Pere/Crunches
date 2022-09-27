@@ -10,6 +10,8 @@
   color: var(--white);
 }
 .nav__wrapper {
+  background-color: var(--black1)
+  position: relative;
   display: flex;
   justify-content: space-between;
 }
