@@ -5,10 +5,8 @@
   top: 0;
   right: 0;
   left: 0;
-  bottom: 4rem;
   padding: 2rem 0;
-  border-bottom: 2px solid var(--gray);
-}
+  }
 .nav__icon,
 .nav__close,
 .nav__bgOverlay {
@@ -42,6 +40,9 @@
 @media only screen and (max-width: 768px) {
   .nav {
     position: relative;
+    border-bottom: 2px solid var(--gray);
+    width: 100%;
+    margin-bottom: 2rem;
     /* overflow-x: scroll; */
   }
   .nav__icon {
