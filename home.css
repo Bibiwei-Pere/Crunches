@@ -5,7 +5,7 @@
   justify-content: center;
   flex-direction: column-reverse;
   gap: 5rem;
-  margin: 40rem 0;
+  margin: 8rem 0;
 }
 .hero__left__wrapper {
   max-width: 350px;
@@ -36,7 +36,7 @@
 
 @media only screen and (min-width: 768px) {
   .hero__wrapper {
-    margin: 40rem 0;
+    margin: 6rem 0;
     flex-direction: row;
     gap: 0;
   }
