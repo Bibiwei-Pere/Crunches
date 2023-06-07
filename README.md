@@ -20,7 +20,7 @@ This is a landing page for a restaurant. The website is created with `html`, `cs
 
 ## Other projects
 
-📚 [All Bibiwei Pere's Projects](https://github.com/Bibiwei-Pere/All-projects)
+📚 [All Bibiwei Pere's Projects]([https://github.com/Bibiwei-Pere/All-projects](https://github.com/Bibiwei-Pere/All-projects](https://github.com/Bibiwei-Pere?tab=repositories))
 
 ---
 
@@ -35,7 +35,3 @@ Like my works and want to support me?
 ## Feedback
 
 If you have any feedback, please send us an email at bibiweipere@gmail.com
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
